@@ -4,7 +4,9 @@
     height: 60px;
     width: 90px;
     background-color: lightpink;
+    position: relative;
 }
+
 
 .big-grid{
     border:3px solid black;
@@ -20,7 +22,7 @@
 }
 .bottom-grid{
     border:3px solid black;
-    height: 125px;
+    height: 127px;
     width: 225px; 
     background-color: #c45b87;
 }
